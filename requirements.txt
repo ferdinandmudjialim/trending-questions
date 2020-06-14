@@ -1,0 +1,6 @@
+### Requirements for pytrends (unofficial Google Trends API)
+requests
+lxml
+pandas
+
+pytrends
